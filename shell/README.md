@@ -1,10 +1,4 @@
-# Module Federation Examples
+# Shell App
 
-This is Shell App Example.
+Running on [http://localhost:3001](http://localhost:3001)
 
-### serve
-
-`yarn webpack server`
-
-Runs the app in the development mode.\
-Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
